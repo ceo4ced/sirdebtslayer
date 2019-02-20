@@ -1,0 +1,17 @@
+@media only screen and (max-width: 400px) {
+
+body	{
+
+		margin:0 auto;
+		width:375px;
+		height: 668px;
+		overflow: hidden;
+		color:white;
+		background-image: url(images/AddLoanInformation.png);
+		background-repeat: no-repeat;
+		background-position: center;
+
+}
+
+
+}
